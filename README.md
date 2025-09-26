@@ -55,7 +55,7 @@ VALUES
 (9, 'Smartwatch S', 'Electronics', 'Apple', 30000.00, 40, 4.9, 'iStore', '2023-09-10'),
 (10, 'Jeans Slim Fit', 'Clothing', 'Levis', 2500.00, 90, 4.2, 'FashionHub', '2023-02-28');
 ```
-![Alt Text](images/tableinfo.png)
+![Alt Text](images/tableinformation.png)
 
 ---
 
