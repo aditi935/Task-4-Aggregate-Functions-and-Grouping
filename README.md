@@ -300,6 +300,8 @@ GROUP BY supplier;
 | iStore      | 1200000.00  |
 
 ---
+![Alt Text](images/Querynumber-1-2-3.png)
+![Alt Text](images/Querynumber-4-5-6-7.png)
+![Alt Text](images/Querynumber-8-9-10-11.png)
+![Alt Text](images/Querynumber-12.png)
 
-"# Task-4Aggregate-Functions-and-Grouping" 
-"# Task-4-Aggregate-Functions-and-Grouping" 
